@@ -1,0 +1,18 @@
+{
+  "name": "resume-parser",
+  "version": "0.0.1",
+  "description": "resume parser to replace job title and biz name",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick MacKenzie",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "docxtemplater": "^3.29.2",
+    "express": "^4.18.1",
+    "pizzip": "^3.1.1",
+    "replace-in-file": "^6.3.2"
+  }
+}
